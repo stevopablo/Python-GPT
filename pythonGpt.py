@@ -5,7 +5,7 @@ import time
 import os
 
 #API key
-API_KEY = 'AIzaSyAngJFO8F1ptgbzwdL8hWUvDYEG3c_Ltzc'  # Replace with your actual key
+API_KEY = 'AIzaSyAngJFO8F1ptgbzwdL8hWUvDYEG3c_Ltzc' 
 os.environ['API_KEY'] = API_KEY
 
 # API config
